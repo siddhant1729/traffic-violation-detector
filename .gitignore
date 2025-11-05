@@ -1,17 +1,18 @@
-# Python
+# Virtual environments
+venv/
+.env/
 __pycache__/
 *.pyc
-
-# Environment
-venv/
-.env
 
 # Data and logs
 data/
 logs/
 *.mp4
 *.avi
+*.mov
+*.jpg
+*.png
 
-# OS files
+# System files
 .DS_Store
 Thumbs.db
