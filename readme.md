@@ -98,8 +98,7 @@ Streamlit dashboard screenshots
 Siddhant
 CSE Undergrad | Competitive Programmer | AI/ML Enthusiast
 📍 JIIT Noida
-🔗 LinkedIn
-🔗 GitHub
+
 
 🏁 License
 This project is open-source and available under the MIT License
