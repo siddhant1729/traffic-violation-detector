@@ -16,3 +16,6 @@ logs/
 # System files
 .DS_Store
 Thumbs.db
+
+#Yolo models
+*.pt
