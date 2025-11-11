@@ -97,7 +97,7 @@ Streamlit dashboard screenshots
 👨‍💻 Author
 Siddhant
 CSE Undergrad | Competitive Programmer | AI/ML Enthusiast
-📍 JIIT Noida
+📍JIIT Noida
 
 
 🏁 License
