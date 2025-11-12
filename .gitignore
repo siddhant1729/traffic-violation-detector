@@ -19,3 +19,15 @@ Thumbs.db
 
 #Yolo models
 *.pt
+# Large model weights
+*.pt
+*.pkl
+
+# Logs and temp files
+logs/
+*.csv
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
